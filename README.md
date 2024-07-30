@@ -6,6 +6,7 @@ Jasa Pembuatan dan Kelola Website
     <li><a href="https://maxsi.id/">MAXsi Reload</a></li>
     <li><a href="https://www.kulakanpulsa.com/">Kulakan Pulsa</a></li>
     <li><a href="https://www.headbanger.id/">Headbanger.ID</a></li>
+    <li><a href="https://toko.maxsi.id/">Toko Grosir Sembako</a></li>
   </ul>
 
   Jasa Joki Admin Media Sosial
