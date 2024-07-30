@@ -14,5 +14,5 @@ Jasa Pembuatan dan Kelola Website
    <li><a href="https://www.facebook.com/maxsireload/">MAXsi Reload</a></li>
    <li><a href="https://www.facebook.com/maxsijayagrosir/">Toko Sembako</a></li>
   </ul>
-
+Kami tidak kerja sendiri, ada tim yang siaga standby online 24 jam 7 hari.
 Cari rezeki halal ni bro, mudah-mudah kita semua diberikan kelancaran dan keberkahan disetiap usaha dan pekerjaan yang kita jalani. aamiin...!!
