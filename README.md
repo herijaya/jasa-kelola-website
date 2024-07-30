@@ -15,4 +15,4 @@ Jasa Pembuatan dan Kelola Website
    <li><a href="https://www.facebook.com/maxsijayagrosir/">Toko Sembako</a></li>
   </ul>
 
-Cari rezeki bro, jangan di rusuhin ya please...!!
+Cari rezeki halal ni bro, mudah-mudah kita semua diberikan kelancaran dan keberkahan disetiap usaha dan pekerjaan yang kita jalani. aamiin...!!
