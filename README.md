@@ -5,7 +5,6 @@ Jasa Pembuatan dan Kelola Website
     <li><a href="https://www.bandungkomputer.com/">Bandung Komputer</a></li>
     <li><a href="https://maxsi.id/">Pulsa Murah</a></li>
     <li><a href="https://www.kulakanpulsa.com/">Kulakan Pulsa</a></li>
-    <li><a href="https://www.headbanger.id/">Headbanger.ID</a></li>
     <li><a href="https://toko.maxsi.id/">Toko Grosir Sembako</a></li>
    <li><a href="https://www.lamsel.com/">Lamsel.COM</a></li>
   </ul>
