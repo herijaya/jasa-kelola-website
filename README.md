@@ -27,9 +27,9 @@ Jasa kelola website adalah layanan untuk mengurus kebutuhan teknis dan konten si
 
 ## Dokumentasi
 
-- [Cara Mengelola Website](docs/cara-mengelola-website.md)  
-- [Paket Jasa Website](docs/paket-jasa-website.md)  
-- [Tips SEO untuk Pemula](docs/tips-seo.md)
+- Cara Mengelola Website
+- Paket Jasa Website
+- Tips SEO untuk Pemula
 
 ## Jasa Pembuatan dan Kelola Website (contoh)
   <ul>
