@@ -35,7 +35,8 @@ Jasa kelola website adalah layanan untuk mengurus kebutuhan teknis dan konten si
   <ul>
     <li><a href="https://maxsi.id/">Pulsa Murah</a></li>
     <li><a href="https://toko.maxsi.id/">Toko Grosir Sembako Murah</a></li>
-   <li><a href="https://www.lamsel.com/">Lamsel.COM</a></li>
+   <li><a href="https://www.lamsel.com/">Lamsel</a></li>
+  <li><a href="https://www.bandungkomputer.com/">Bandung Komputer</a></li>
   </ul>
 
   Jasa Joki Admin Media Sosial
